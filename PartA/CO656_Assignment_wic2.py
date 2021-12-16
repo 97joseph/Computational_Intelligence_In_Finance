@@ -1,10 +1,5 @@
 # Computational Intelligence in Business, Economics & Finance Assignment
 # Optimising trading strategies with technical analysis
-# 
-# Author: Wai Ip Chu  
-# Login: wic2  
-# Created: 23.11.2020
-# 
 # For information on how to run script, follow instructions in README.md
 
 import sys
