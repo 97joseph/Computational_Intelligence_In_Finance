@@ -71,7 +71,7 @@ def mom10(close):
     return MOM_10
 
 
-# Task 2: Trading signals. (10%)
+# Task 2: Trading signals. 
 # ------------------------------
 
 # Task 2a: Use the two SMA to generate signals. 

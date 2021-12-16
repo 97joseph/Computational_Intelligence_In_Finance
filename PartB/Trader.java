@@ -4,13 +4,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-/**
- * This class can be used to simulate a trading strategy based
- * on technical indicators.
- *
- * @author Fernando Otero
- * @version 1.0
- */
+
 public class Trader
 {
     /**
